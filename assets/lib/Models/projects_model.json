@@ -1,6 +1,16 @@
 {
     "status":200,
+    
     "projects":[
+    {
+            "image": "https://i.ibb.co/4t9vnQN/pic130.png",
+            "projectDesc":"Advanced Contacts is an easy to use application for both iOS and Android with provides better features to users including search contacts, SMS scheduling, instant SMS and WhatsApp and expandable UI for each contact are some of the features of this application.",
+            "projectTitle":"Advanced Contacts",
+            "tech":[
+                "Flutter","Dart","FlutterUI"
+            ],
+            "link": "https://github.com/zunairpervaiz/AdvancedContacts"
+        },
         {
             "image": "https://i.ibb.co/3sH7pzx/pic129.png",
             "projectDesc":"Face Mask Detection system built with Flutter, TensorFlow using Deep Learning and Computer Vision concepts in order to detect face masks using images",
