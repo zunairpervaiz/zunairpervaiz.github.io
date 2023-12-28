@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.clickup_flutter",
+      "sha256_cert_fingerprints":
+      ["4E:5E:FE:92:21:9B:50:7C:97:0E:BF:82:81:5B:74:7C:6A:BE:85:D3:2A:D2:4C:36:58:72:5B:B5:F9:7E:06:D7"]
+    }
+  }]
