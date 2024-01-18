@@ -1,9 +1,14 @@
-[{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.textmessage",
-      "sha256_cert_fingerprints":
-      ["4E:5E:FE:92:21:9B:50:7C:97:0E:BF:82:81:5B:74:7C:6A:BE:85:D3:2A:D2:4C:36:58:72:5B:B5:F9:7E:06:D7"]
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.example.unilinks_flutter_app",
+            "sha256_cert_fingerprints": [
+                "88:43:6A:41:14:57:70:67:A1:00:32:3F:1B:AB:CA:D0:4C:75:1C:4C:B6:58:6A:6D:E9:54:D4:76:F3:83:E9:BD"
+            ]
+        }
     }
-  }]
+]
